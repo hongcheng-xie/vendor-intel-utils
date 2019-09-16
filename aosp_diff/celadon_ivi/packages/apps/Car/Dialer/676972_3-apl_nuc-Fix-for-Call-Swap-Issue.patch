@@ -3,6 +3,7 @@ From: Gaganpreet kaur <gaganpreetx.kaur@intel.com>
 Date: Fri, 2 Aug 2019 16:59:02 +0530
 Subject: [PATCH] Fix for Call Swap Issue
 
+Test only
 Issue: Call swap functionality is not working during HFP call
 
 Description: When Pixel device is connected to DUT over BT and
